@@ -1,6 +1,6 @@
 # 🤖 [Nome do Projeto - Labirinto com Arduino] 
 >Projeto desenvolvido para a Semana Industrial 2025, focado no controle de um labirnto mecânico controlado por microsservos e com sistema de som e movimento embutidos ---
-> ###👥 Equipe (Colaboradores) * [Ariel Cachuf Viana1](https.github.com/usuario-github-1) * [Antonio Previtali Morais](https.github.com/usuario-github-2) * [Nicolas Gabriel Figueiredo de Souza](https.github.com/usuario-github-3) [Victor Reis dos Santos Silva](https.github.com/usuario-github-4)---
+> ###👥 Equipe (Colaboradores) * [Ariel Cachuf Viana1](https.github.com/usuario-github-1) * [Antonio Previtali Morais](https.github.com/usuario-github-2) * [Nicolas Gabriel Souza Figueiredo](https.github.com/usuario-github-3) [Victor Reis dos Santos Silva](https.github.com/usuario-github-4)---
 > ### 📖 Descrição  do Projeto Aqui vocês devem detalhar melhor o projeto. *
 > Qual problema ele resolve? * Qual era o desafio da Semana Industrial? *
 >  Como ele funciona (visão geral)? *
